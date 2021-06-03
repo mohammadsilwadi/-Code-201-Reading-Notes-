@@ -27,10 +27,9 @@
 
 * [Assorted Topics.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read11)
 
-* [Docs for the HTML <canvas> Element & Chart.js](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read12)
+* [Docs for the HTML < canvas> Element & Chart.js](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read12) 
 
 * [Local Storage.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read13)
-
 
 * [CSS Transforms, Transitions, and Animations.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read14)
 
