@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mohammadsilwadi/-Code-201-Reading-Notes-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Code 201 Reading Notes :
+#### **In this web site you will find my notes about software devlopment course.** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Table of Contents : 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Introductory HTML and JavaScript.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/Read:01)
 
-```markdown
-Syntax highlighted code block
++ [HTML Text, CSS Introduction, and Basic JavaScript Instructions.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read:02)
 
-# Header 1
-## Header 2
-### Header 3
+ - [HTML Lists, CSS Boxes, JS Control Flow.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read03)
 
-- Bulleted
-- List
+ + [HTML Links, CSS Layout, JS Functions.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read04)
 
-1. Numbered
-2. List
+ + [HTML Images; CSS Color & Text.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read05)
 
-**Bold** and _Italic_ and `Code` text
+ + [JS Object Literals; The DOM.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read06)
 
-[Link](url) and ![Image](src)
-```
+ + [Object-Oriented Programming, HTML Tables.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read07)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [More CSS Layout.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read08)
 
-### Jekyll Themes
+* [Forms and Events.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read09)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammadsilwadi/-Code-201-Reading-Notes-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [JS Debugging.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read010)
 
-### Support or Contact
+* [Assorted Topics.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read11)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Docs for the HTML <canvas> Element & Chart.js](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read12)
+
+* [Local Storage.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read13)
+
+
+* [CSS Transforms, Transitions, and Animations.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read14)
+
+* [What Google Learned About Teams.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read15)
+
