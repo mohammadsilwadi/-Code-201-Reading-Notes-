@@ -75,7 +75,7 @@ HTML5 Semantic Elements*
  ![HTML5 Layout](https://www.w3schools.com/html/img_sem_elements.gif).
 
 
-# ABC IN JavaScript
+# **ABC IN JavaScript**
 
 
 + A > What is script and how do O create one?
@@ -86,12 +86,12 @@ HTML5 Semantic Elements*
 state your goal and then list the
 tasks that need to be completed in
 order to achieve it.*
-1. DEFINE THE GOAL
+1. #### DEFINE THE GOAL
 First, you need to define the task you want to
 achieve. You can think of this as a puzzle for the
 computer to solve.
 
-2. DESIGN THE SCRIPT
+2. #### DESIGN THE SCRIPT
 To design a script you split the goal out into a series
 of tasks that are going to be involved in solving this
 puzzle. This can be represented using a flowchart.
@@ -101,10 +101,12 @@ each individual task (and any information it needs to
 perform the task), rather like writing a recipe that it
 can follow.
 
-3. CODE EACH STEP
+3. #### CODE EACH STEP
 Each of the steps needs to be written in a
 programming language that the compu ter
 understands. In our case, this is JavaScript.
 
 ###  How do computers fit in with the world around them.
 * computers create models of wolrd using data.
+- Programmers can write code to say "when this event occurs, run that code."
++ to make web pages interactive,you write code that uses the browser's model of the web page. 
