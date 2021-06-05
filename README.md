@@ -7,7 +7,7 @@
 
 * [Introductory HTML and JavaScript.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/Read:01)
 
-+ [HTML Text, CSS Introduction, and Basic JavaScript Instructions.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read:02)
++ [HTML Text, CSS Introduction, and Basic JavaScript Instructions.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read02)
 
  - [HTML Lists, CSS Boxes, JS Control Flow.](https://mohammadsilwadi.github.io/-Code-201-Reading-Notes-/read03)
 
