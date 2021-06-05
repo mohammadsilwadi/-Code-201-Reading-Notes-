@@ -73,7 +73,10 @@ HTML5 Semantic Elements*
     details> - Defines additional details that the user can open and close on demand
     summary> - Defines a heading for the details> element.
  ![HTML5 Layout](https://www.w3schools.com/html/img_sem_elements.gif).
+
+
 # ABC IN JavaScript
+
 
 + A > What is script and how do O create one?
 + B> How do computers fit in with the world around them?
@@ -103,5 +106,5 @@ Each of the steps needs to be written in a
 programming language that the compu ter
 understands. In our case, this is JavaScript.
 
-###  How do compiters fit in with the world around them.
+###  How do computers fit in with the world around them.
 * computers create models of wolrd using data.
