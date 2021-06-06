@@ -177,3 +177,4 @@ Function nameOfTheFunction(parameter1){ statement }
 
 nameOfTheFunction(value)>>>>>here we call the function by his name.
 
+acdasd
